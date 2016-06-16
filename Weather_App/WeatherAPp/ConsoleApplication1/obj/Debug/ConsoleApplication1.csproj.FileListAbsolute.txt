@@ -1,0 +1,14 @@
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\WeatherAPp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\WeatherAPp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\WeatherAPp\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\WeatherAPp\ConsoleApplication1\bin\Debug\BusinessLogic.dll
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\WeatherAPp\ConsoleApplication1\bin\Debug\DataCommunication.dll
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\WeatherAPp\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\WeatherAPp\ConsoleApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\WeatherAPp\ConsoleApplication1\bin\Debug\BusinessLogic.pdb
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\WeatherAPp\ConsoleApplication1\bin\Debug\DataCommunication.pdb
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\WeatherAPp\ConsoleApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\WeatherAPp\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\WeatherAPp\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\WeatherAPp\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\WeatherAPp\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
