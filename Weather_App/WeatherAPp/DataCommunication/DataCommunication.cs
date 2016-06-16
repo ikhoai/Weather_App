@@ -10,7 +10,7 @@ namespace DataCommunication
 {
     public class DataCommunications
     {
-        public string url1 = "http://api.openweathermap.org/data/2.5/forecast/daily?id=1581129&appid=82c26c8ca12c896805252d9f1b83ed77";
+        public string url1 = "http://api.openweathermap.org/data/2.5/forecast?id=1581129&appid=82c26c8ca12c896805252d9f1b83ed77";
 
         public string getDataString(string url)
         {

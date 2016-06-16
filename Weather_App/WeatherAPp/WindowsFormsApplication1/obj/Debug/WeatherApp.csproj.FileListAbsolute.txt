@@ -7,3 +7,12 @@ C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\WeatherAPp\WindowsForms
 C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\WeatherAPp\WindowsFormsApplication1\obj\Debug\WeatherApp.csproj.GenerateResource.Cache
 C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\WeatherAPp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\WeatherAPp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\BitBucket\Weather_App\Weather_App\WeatherAPp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\BitBucket\Weather_App\Weather_App\WeatherAPp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\BitBucket\Weather_App\Weather_App\WeatherAPp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\BitBucket\Weather_App\Weather_App\WeatherAPp\WindowsFormsApplication1\obj\Debug\WeatherApp.csprojResolveAssemblyReference.cache
+C:\BitBucket\Weather_App\Weather_App\WeatherAPp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\BitBucket\Weather_App\Weather_App\WeatherAPp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\BitBucket\Weather_App\Weather_App\WeatherAPp\WindowsFormsApplication1\obj\Debug\WeatherApp.csproj.GenerateResource.Cache
+C:\BitBucket\Weather_App\Weather_App\WeatherAPp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\BitBucket\Weather_App\Weather_App\WeatherAPp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

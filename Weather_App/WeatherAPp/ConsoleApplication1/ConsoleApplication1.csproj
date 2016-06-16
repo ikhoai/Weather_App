@@ -63,6 +63,10 @@
       <Project>{a307bb5f-86e9-45a9-8b6c-1b762fe7461e}</Project>
       <Name>DataCommunication</Name>
     </ProjectReference>
+    <ProjectReference Include="..\WeatherModel\WeatherModel.csproj">
+      <Project>{8231dfc0-6f1d-4a2d-93a5-e77f1b105ec8}</Project>
+      <Name>WeatherModel</Name>
+    </ProjectReference>
     <ProjectReference Include="..\WindowsFormsApplication1\WeatherApp.csproj">
       <Project>{bf9dda45-65ac-4373-b0bc-54904c39df52}</Project>
       <Name>WeatherApp</Name>

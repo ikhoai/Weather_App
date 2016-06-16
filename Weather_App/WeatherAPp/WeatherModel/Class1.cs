@@ -8,6 +8,9 @@ namespace WeatherApp.Model.WeatherModel
 {
     public class WeatherModels
     {
-        
+        public string cityName { get; set; }
+        public string temperature { get; set; }
+        public DateTime day { get; set;  }
+        public Array FiveDaysInfo { get; set; }
     }
 }

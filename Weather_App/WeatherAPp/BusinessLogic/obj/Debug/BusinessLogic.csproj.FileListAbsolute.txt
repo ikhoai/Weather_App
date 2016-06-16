@@ -9,3 +9,14 @@ C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\WeatherAPp\BusinessLogi
 C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\WeatherAPp\BusinessLogic\bin\Debug\DataCommunication.pdb
 C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\WeatherAPp\BusinessLogic\bin\Debug\WindowsFormsApplication1.pdb
 C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\WeatherAPp\BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+C:\BitBucket\Weather_App\Weather_App\WeatherAPp\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\BitBucket\Weather_App\Weather_App\WeatherAPp\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\BitBucket\Weather_App\Weather_App\WeatherAPp\BusinessLogic\bin\Debug\DataCommunication.dll
+C:\BitBucket\Weather_App\Weather_App\WeatherAPp\BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+C:\BitBucket\Weather_App\Weather_App\WeatherAPp\BusinessLogic\bin\Debug\WindowsFormsApplication1.exe
+C:\BitBucket\Weather_App\Weather_App\WeatherAPp\BusinessLogic\bin\Debug\DataCommunication.pdb
+C:\BitBucket\Weather_App\Weather_App\WeatherAPp\BusinessLogic\bin\Debug\WindowsFormsApplication1.pdb
+C:\BitBucket\Weather_App\Weather_App\WeatherAPp\BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+C:\BitBucket\Weather_App\Weather_App\WeatherAPp\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\BitBucket\Weather_App\Weather_App\WeatherAPp\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\BitBucket\Weather_App\Weather_App\WeatherAPp\BusinessLogic\obj\Debug\BusinessLogic.pdb
