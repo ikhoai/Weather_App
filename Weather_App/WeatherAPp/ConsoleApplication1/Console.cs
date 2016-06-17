@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using DataCommunication;
 using Newtonsoft.Json.Linq;
+using Newtonsoft.Json; 
 using WeatherApp.Model.WeatherModel; 
 
 
@@ -17,25 +18,35 @@ namespace ConsoleApplication1
             WeatherModels model = new WeatherModels(); 
 
             DataCommunications weather = new DataCommunications();
-            string stringData = weather.getDataString(weather.url1);
+            string stringData = weather.getDataString(weather.url());
             JObject jsonData = weather.getJsonFromString(stringData);
 
+            // Testing 2: 
+            IList<JToken> results = jsonData["list"].Children().ToList();
+
+            model.cityName = jsonData["city"]["name"].ToString();
+
+            Console.WriteLine(model.cityName); 
+
+            foreach (var result in results)
+            {
+                model.temp = result["main"]["temp"].ToString(); 
+                Console.WriteLine(model.temp);       
+            }
+
+            // ===============
             JToken cityInfo = jsonData["city"];
             string cityname = (string) cityInfo["name"]; 
             JToken weatherInfo = jsonData["list"];
 
             model.cityName = cityname;
-            model.FiveDaysInfo = (Array)weatherInfo; 
+            
 
-            JToken dailyWeather;
 
-            foreach (JToken daily in weatherInfo)
-            {
-                model.cityName = (string)cityInfo;
-            }
+            model = JsonConvert.DeserializeObject <WeatherModels> (stringData); 
 
-            Console.WriteLine(model.cityName);
-            Console.WriteLine(model.FiveDaysInfo); 
+
+            Console.WriteLine(results);
 
             Console.ReadLine(); 
            

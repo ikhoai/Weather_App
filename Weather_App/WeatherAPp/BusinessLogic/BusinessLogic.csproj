@@ -52,10 +52,6 @@
       <Project>{a307bb5f-86e9-45a9-8b6c-1b762fe7461e}</Project>
       <Name>DataCommunication</Name>
     </ProjectReference>
-    <ProjectReference Include="..\WindowsFormsApplication1\WeatherApp.csproj">
-      <Project>{bf9dda45-65ac-4373-b0bc-54904c39df52}</Project>
-      <Name>WeatherApp</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

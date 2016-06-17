@@ -12,3 +12,14 @@ C:\BitBucket\Weather_App\Weather_App\WeatherAPp\WeatherModel\bin\Debug\Newtonsof
 C:\BitBucket\Weather_App\Weather_App\WeatherAPp\WeatherModel\obj\Debug\WeatherModel.csprojResolveAssemblyReference.cache
 C:\BitBucket\Weather_App\Weather_App\WeatherAPp\WeatherModel\obj\Debug\WeatherModel.dll
 C:\BitBucket\Weather_App\Weather_App\WeatherAPp\WeatherModel\obj\Debug\WeatherModel.pdb
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\Weather_App\WeatherAPp\WeatherModel\bin\Debug\WeatherModel.dll
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\Weather_App\WeatherAPp\WeatherModel\bin\Debug\WeatherModel.pdb
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\Weather_App\WeatherAPp\WeatherModel\bin\Debug\BusinessLogic.dll
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\Weather_App\WeatherAPp\WeatherModel\bin\Debug\DataCommunication.dll
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\Weather_App\WeatherAPp\WeatherModel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\Weather_App\WeatherAPp\WeatherModel\bin\Debug\BusinessLogic.pdb
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\Weather_App\WeatherAPp\WeatherModel\bin\Debug\DataCommunication.pdb
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\Weather_App\WeatherAPp\WeatherModel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\Weather_App\WeatherAPp\WeatherModel\obj\Debug\WeatherModel.csprojResolveAssemblyReference.cache
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\Weather_App\WeatherAPp\WeatherModel\obj\Debug\WeatherModel.dll
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\Weather_App\WeatherAPp\WeatherModel\obj\Debug\WeatherModel.pdb

@@ -20,3 +20,12 @@ C:\BitBucket\Weather_App\Weather_App\WeatherAPp\BusinessLogic\bin\Debug\Newtonso
 C:\BitBucket\Weather_App\Weather_App\WeatherAPp\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
 C:\BitBucket\Weather_App\Weather_App\WeatherAPp\BusinessLogic\obj\Debug\BusinessLogic.dll
 C:\BitBucket\Weather_App\Weather_App\WeatherAPp\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\Weather_App\WeatherAPp\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\Weather_App\WeatherAPp\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\Weather_App\WeatherAPp\BusinessLogic\bin\Debug\DataCommunication.dll
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\Weather_App\WeatherAPp\BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\Weather_App\WeatherAPp\BusinessLogic\bin\Debug\DataCommunication.pdb
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\Weather_App\WeatherAPp\BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\Weather_App\WeatherAPp\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\Weather_App\WeatherAPp\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\minh.dinh2\Desktop\testGit\Homework\Weather_App\Weather_App\WeatherAPp\BusinessLogic\obj\Debug\BusinessLogic.pdb

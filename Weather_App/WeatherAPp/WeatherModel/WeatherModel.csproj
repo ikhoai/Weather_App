@@ -40,21 +40,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="WeatherModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BusinessLogic\BusinessLogic.csproj">
       <Project>{44380fb4-1978-438a-bf30-0d62574d0a9f}</Project>
       <Name>BusinessLogic</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\DataCommunication\DataCommunication.csproj">
-      <Project>{a307bb5f-86e9-45a9-8b6c-1b762fe7461e}</Project>
-      <Name>DataCommunication</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\WindowsFormsApplication1\WeatherApp.csproj">
-      <Project>{bf9dda45-65ac-4373-b0bc-54904c39df52}</Project>
-      <Name>WeatherApp</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
